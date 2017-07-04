@@ -35,6 +35,7 @@ private:
     Bitboard AllWhitePieces;
     Bitboard AllBlackPieces;
     Bitboard AllPieces;
+    Bitboard AllEmptySpaces;
 };
 
 #endif BOARD_H
